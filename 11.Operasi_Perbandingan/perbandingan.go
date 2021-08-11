@@ -3,6 +3,7 @@
 //Operator
 // < > >= <= == !=(Tidak sama dengan)
 package main
+
 import "fmt"
 
 func main() {

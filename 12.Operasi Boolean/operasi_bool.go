@@ -5,17 +5,18 @@
 // !(kebalikan)->true=false,false=true
 
 package main
+
 import "fmt"
 
-func main(){
+func main() {
 	var nilaiAkhir = 98
 	var absensi = 88
 
-	var lulusNilaiAkhir = nilaiAkhir >80
+	var lulusNilaiAkhir = nilaiAkhir > 80
 	var lulusAbsensi = absensi > 80
 
 	var lulus = lulusNilaiAkhir && lulusAbsensi
 	fmt.Println(lulus)
 
-	fmt.Println(ujian >=80 && absensi >=80)
+	fmt.Println(nilaiAkhir >= 80 && absensi >= 80)
 }
