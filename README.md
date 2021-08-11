@@ -1,2 +1,2 @@
 # go-dasar
- Belajar Dasar Pemrograman Go
+Ini adalah Repository Saya untuk Go Dasar
