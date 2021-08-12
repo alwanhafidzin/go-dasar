@@ -1,5 +1,6 @@
 //biasanya memberi tahu bahwa function mengembalikan value maka mendeklarasikan tipe data return value di function
 //di golang kita bisa membuat variabel secara langsung di tipe data return function nya
+//fitur ini hanya di golang
 package main
 
 import "fmt"
